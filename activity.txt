@@ -1,0 +1,51 @@
+Phase 1: Empathize\
+
+We will be making a flight simulation app.\
+● This can help aspiring pilots to train themselves better. People who want to know how it
+feels to fly a plane without being an actual pilot will love this.\
+● This can also allow the younger generation to have a fun game to play\
+
+
+-------------------------------------
+
+Phase 2: Defining \
+we will be making a virtual reality flight simulation app to help aspiring pilots.\
+● We might face the challenge of managing a heaving application\
+
+--------------------------------------
+Phase 3: Ideation\
+
+we will be needing a VR development Framework/library.
+● We can add a timer.
+● We can add scores
+● We can add obstacles. This will require physics.
+----------------------------------------
+
+Phase 4: Prototyping \
+we can design/build a prototype (how the actual product will be) based on the following element, for virtual reality application, we will need:\
+● Scene\
+● Game rules\
+● Flight controls\
+● Player movement\
+● Points to the players\
+● Single player\
+● 3D collisions\
+● Timer\
+● 3D Text\
+
+--------------------------------------------
+
+This will result in the first version of the actual product that can be tested.\
+
+Phase 5: Testing\
+We should be able to run the prototype successfully; if not, then we should cross-check by asking the questions\
+such as:\
+
+● Issues coming to the trial run?\
+● How can we fix them?\
+● Can we improve this prototype,\
+or do we need a new idea?\
+● Did we try it with the end users?\
+● What was the user's reaction to the product?\
+
+---------------------------------------------
